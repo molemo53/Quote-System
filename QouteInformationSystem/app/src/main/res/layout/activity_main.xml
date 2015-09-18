@@ -1,0 +1,40 @@
+
+
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#95efff">
+
+    <TextView
+        android:layout_width="271dp"
+        android:layout_height="88dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/QuotePage"
+        android:id="@+id/textView" android:layout_x="76dp" android:layout_y="166dp" android:textSize="35sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txtMsg" android:layout_x="135dp" android:layout_y="243dp"/>
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="266dp"
+        android:layout_height="62dp"
+        android:text="@string/ManageApp"
+        android:id="@+id/btnManage" android:layout_x="77dp" android:layout_y="333dp"
+        android:onClick="SendMessage"/>/>
+
+    <Button
+        android:layout_width="266dp"
+        android:layout_height="62dp"
+        android:text="@string/Makequote"
+        android:id="@+id/button"
+        android:layout_x="77dp"
+        android:layout_y="401dp"
+        android:onClick="SendMessage"/>
+
+
+
+</AbsoluteLayout>
+

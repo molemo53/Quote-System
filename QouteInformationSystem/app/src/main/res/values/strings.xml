@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quote Information System</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="customerName">First Name :</string>
+    <string name="customerLast">Last Name :</string>
+    <string name="email">E-mail :</string>
+    <string name="cellNumber">Cell Number :</string>
+    <string name="address">Home Address: </string>
+
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back</string>
+
+    <string name="QuotePage">Quote System Home</string>
+    <string name="ManageApp">Manage Application</string>
+    <string name="Makequote">Make Quote</string>
+
+    <string name="jobname">Job Name</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="Price">Price</string>
+    <string name="JodDuration">Job Duration</string>
+
+    <string name="dataMain">Data Maintenance</string>
+    <string name="AddC">Add Customer</string>
+    <string name="addJobs">Add Job Service</string>
+    <string name="viewCustomer">View Customer</string>
+    <string name="viewJob">View Jobs</string>
+
+    <string name="customer">Customer</string>
+
+    <string name="quotes">Quotes Home</string>
+    <string name="Vqoutes">View Quotes</string>
+    <string name="mquote">Create Quote</string>
+
+    <string name="customerList">Customer List</string>
+    <string name="addcustommer">Add New Customer</string>
+    <string name="addQouten">Add New Quote</string>
+    <string name="Quotelist">Quote List</string>
+    <string name="Joblistv">Job List</string>
+    <string name="AddnewJob">Add New Job</string>
+</resources>

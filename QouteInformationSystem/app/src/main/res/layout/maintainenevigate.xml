@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8b8682">
+
+    <TextView
+        android:layout_width="214dp"
+        android:layout_height="56dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25sp"
+        android:text="@string/dataMain"
+        android:id="@+id/textView" android:layout_x="58dp" android:layout_y="36dp"/>
+    <Button
+        android:layout_width="197dp"
+        android:layout_height="73dp"
+        android:text="@string/AddC"
+        android:id="@+id/btnAddCustomer" android:layout_x="77dp" android:layout_y="93dp"/>
+
+    <Button
+        android:layout_width="197dp"
+        android:layout_height="73dp"
+        android:text="@string/addJobs"
+        android:id="@+id/btnAddJob" android:layout_x="77dp" android:layout_y="187dp"/>
+    <Button
+        android:layout_width="197dp"
+        android:layout_height="73dp"
+        android:text="@string/viewCustomer"
+        android:id="@+id/btnViewCustomer" android:layout_x="75dp" android:layout_y="291dp"/>
+
+    <Button
+
+        android:layout_width="197dp"
+        android:layout_height="73dp"
+        android:text="@string/viewJob"
+        android:id="@+id/btnViewJob"
+        android:layout_x="77dp"
+        android:layout_y="387dp" />
+</AbsoluteLayout>
